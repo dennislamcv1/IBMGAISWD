@@ -1,5 +1,5 @@
 # IBMGAISWD
-## Generative AI for Software Developers Specialization
+## Generative AI for Software Developers Specialization (3 course series)
 
 With generative AI, a new technology era has begun. Software developers can leverage this revolutionary technology to write high-quality code with fewer bugs, which will increase their overall effectiveness and efficiency and. This is making generative AI an essential and must-have skill for software engineers. 
 
